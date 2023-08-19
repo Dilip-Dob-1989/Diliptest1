@@ -14,3 +14,11 @@ body{
     width:500px;
 }
 
+p{
+    color:black;
+    background-color: red;
+    border:1px solid red;
+    height:100 ps;
+    width:500px;
+}
+
